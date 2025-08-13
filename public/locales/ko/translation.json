@@ -1,0 +1,241 @@
+{
+  "header": {
+    "logo": "LongevAI360",
+    "features": "기능",
+    "pricing": "가격",
+    "trustBadge": "건강을 최적화하는 10,000+명에 합류",
+    "getStarted": "무료로 시작 →",
+    "login": "로그인"
+  },
+  "hero": {
+    "headline": "더 <1>스마트하게</1> 살아라. 더 <3>오래</3> 살아라.",
+    "subheading": "세계에서 가장 진보된 장수 최적화 플랫폼. 700,000+개의 유전적 변이를 분석하고, 50+개의 바이오마커를 추적하며, AI 기반 통찰력을 얻어 건강수명과 기대수명을 연장하세요.",
+    "cta": "무료로 시작",
+    "ctaSubtext": "오늘 무료 체험을 시작하세요 👇",
+    "features": {
+      "genetic": "유전자 + 바이오마커 분석",
+      "insights": "실시간 장수 통찰력",
+      "reports": "의사용 보고서"
+    }
+  },
+  "features": {
+    "badge": "고급 기능",
+    "title": "<1>삶을 최적화</1>하는 데 필요한 모든 것",
+    "subtitle": "우리의 종합적인 플랫폼은 최첨단 AI, 유전자 분석, 실시간 바이오마커 추적을 결합하여 이전에 없던 개인화된 장수 최적화를 제공합니다.",
+    "cta": "장수 여정 시작하기",
+    "ctaSubtext": "<1>14일 무료 체험</1> • 신용카드 불필요",
+    "learnMore": "더 알아보기",
+    "items": {
+      "aiCoach": {
+        "title": "AI 코치",
+        "description": "최적의 결과를 위해 당신의 고유한 생물학과 라이프스타일 패턴에 적응하는 개인화된 AI 기반 코칭."
+      },
+      "workouts": {
+        "title": "운동",
+        "description": "최대 장수 효과를 위해 당신의 유전적 프로필과 피트니스 목표에 맞춘 과학 기반 운동 프로토콜."
+      },
+      "nutrition": {
+        "title": "영양",
+        "description": "당신의 대사 유형, 유전적 변이, 실시간 바이오마커 데이터를 기반으로 한 정밀 영양 계획."
+      },
+      "calculator": {
+        "title": "건강 계산기",
+        "description": "고급 알고리즘이 당신의 생물학적 나이, 건강수명 잠재력, 장수 궤적을 계산합니다."
+      },
+      "diseaseRisk": {
+        "title": "질병 위험",
+        "description": "실행 가능한 예방 전략과 함께 150+개 질환에 대한 종합적인 위험 평가."
+      },
+      "sleep": {
+        "title": "수면",
+        "description": "향상된 회복과 장수를 위한 개인화된 프로토콜로 수면 구조를 최적화하세요."
+      },
+      "supplements": {
+        "title": "보충제",
+        "description": "당신의 유전적 프로필과 영양 결핍을 기반으로 한 정밀 보충제 권장사항."
+      },
+      "dataUpload": {
+        "title": "데이터 업로드",
+        "description": "100+개 기기와 실험실 검사의 데이터를 원활하게 통합하여 종합적인 건강 추적을 실현."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "간단한 과정",
+    "title": "<1>LongevAI360</1>의 작동 방식",
+    "subtitle": "세 가지 간단한 단계로 건강을 변화시키세요. 우리의 AI 기반 플랫폼은 장수 최적화를 접근 가능하고, 개인화되고, 과학적으로 뒷받침되게 만듭니다.",
+    "cta": "무료로 시작",
+    "ctaTitle": "장수 여정을 시작할 준비가 되셨나요?",
+    "ctaSubtitle": "우리의 AI 기반 플랫폼으로 이미 건강을 최적화하고 수명을 연장하고 있는 수천 명의 사용자에게 합류하세요.",
+    "ctaSubtext": "<1>14일 무료 체험</1> • 설정은 5분 소요",
+    "learnMore": "더 알아보기",
+    "steps": {
+      "upload": {
+        "title": "데이터 업로드",
+        "description": "23andMe에서 유전자 데이터를 업로드하고, Apple Watch나 Oura Ring 같은 웨어러블을 연결하며, 종합적인 분석을 위해 건강 지표를 입력하세요.",
+        "features": {
+          "integration": "23andMe 통합",
+          "wearables": "웨어러블 동기화",
+          "metrics": "건강 지표 입력"
+        }
+      },
+      "analysis": {
+        "title": "AI 분석",
+        "description": "우리의 고급 AI가 700,000+개의 유전적 변이를 분석하고, 50+개의 바이오마커를 추적하며, 당신의 라이프스타일 데이터를 처리하여 고유한 장수 프로필을 생성합니다.",
+        "features": {
+          "variants": "700K+개 유전적 변이",
+          "biomarkers": "50+개 바이오마커",
+          "processing": "라이프스타일 처리"
+        }
+      },
+      "optimization": {
+        "title": "개인화된 최적화",
+        "description": "당신의 유전적 구성과 건강 목표에 맞춘 영양, 운동, 보충제, 바이오해킹 프로토콜에 대한 개인화된 권장사항을 받으세요.",
+        "features": {
+          "nutrition": "맞춤 영양",
+          "exercise": "운동 계획",
+          "supplements": "보충제 프로토콜"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "전문가들의 신뢰",
+    "title": "<1>건강 리더들</1>이 말하는 것",
+    "subtitle": "환자와 자신을 위해 획기적인 결과를 제공하기 위해 LongevAI360을 신뢰하는 수천 명의 의사, 연구자, 건강 최적화 전문가에게 합류하세요.",
+    "cta": "무료 체험 시작",
+    "ctaTitle": "건강 혁명에 합류",
+    "ctaSubtitle": "수천 명의 건강 전문가와 최적화 전문가들이 LongevAI360으로 달성하고 있는 동일한 획기적인 결과를 경험하세요.",
+    "ctaSubtext": "<1>10,000+명의 사용자에게 합류</1> • 신용카드 불필요",
+    "stats": {
+      "users": "활성 사용자",
+      "satisfaction": "만족도",
+      "partners": "의료 파트너",
+      "rating": "평균 평점"
+    }
+  },
+  "pricing": {
+    "badge": "간단한 가격",
+    "title": "하나의 플랜. <1>모든 것 포함</1>",
+    "subtitle": "숨겨진 수수료 없음, 기능 제한 없음, 복잡한 단계 없음. 간단한 가격으로 완전한 장수 최적화 플랫폼에 액세스하세요.",
+    "cardTitle": "궁극의 장수 플랫폼",
+    "cardSubtitle": "더 길고 건강한 삶을 위한 올인원 솔루션.",
+    "badgeMonthlyPayment": "일회성 월 결제",
+    "billingDetails": "간단한 월별 청구. 언제든지 취소.",
+    "valuePropositionText": "건강수명과 장수를 연장하기 위한 완전한 툴킷",
+    "price": "$19",
+    "cents": ".99",
+    "period": "/월",
+    "cta": "장수 여정 시작하기",
+    "trial": "14일 무료 체험",
+    "cancel": "언제든지 취소",
+    "setup": "신용카드 불필요 • 설정은 5분 소요",
+    "features": {
+      "aiCoach": "AI 장수 코치 및 통찰력",
+      "genetic": "완전한 유전자 분석 (700K+개 변이)",
+      "biomarker": "바이오마커 추적 및 질병 위험 평가",
+      "diseaseRisk": "질병 위험 평가",
+      "workouts": "개인화된 운동 계획",
+      "nutrition": "영양 최적화",
+      "biohacking": "바이오해킹 프로토콜",
+      "tracking": "진행 상황 추적",
+      "integration": "원활한 데이터 통합 및 추적",
+      "support": "24/7 전문가 지원 및 안내"
+    },
+    "descriptions": {
+      "aiCoach": "당신의 고유한 생물학, 라이프스타일 패턴, 건강 목표에서 학습하는 고급 AI로부터 개인화된 권장사항을 받아 장수 여정을 최적화하세요.",
+      "genetic": "700,000+개의 유전적 변이에 대한 포괄적 분석으로 당신의 소인을 이해하고, 개입을 최적화하며, 진정으로 개인화된 건강 전략을 만드세요.",
+      "biomarker": "50+개의 중요한 바이오마커를 실시간으로 추적하여 건강 상태를 모니터링하고, 트렌드를 식별하며, 최적의 웰빙을 위한 데이터 기반 결정을 내리세요.",
+      "diseaseRisk": "유전 데이터와 라이프스타일 요인을 사용한 150+개 질환에 대한 고급 위험 평가와 당신의 프로필에 맞춘 실행 가능한 예방 전략.",
+      "workouts": "당신의 유전적 프로필, 피트니스 수준, 장수 목표에 맞춤화된 과학 기반 운동 프로토콜로 최대 건강 효과와 지속 가능한 결과를 달성.",
+      "nutrition": "당신의 대사 유형, 유전적 변이, 음식 민감성, 실시간 바이오마커 데이터를 기반으로 한 정밀 영양 계획으로 최적의 건강 결과를 달성.",
+      "biohacking": "수면 최적화, 스트레스 관리, 회복 기술을 포함한 증거 기반 바이오해킹 프로토콜로 당신의 고유한 생물학에 맞춤화.",
+      "tracking": "상세한 분석, 트렌드 분석, 인사이트를 통한 포괄적인 진행 상황 모니터링으로 장수 목표를 향해 궤도를 유지.",
+      "integration": "웨어러블, 유전자 검사, 건강 모니터를 포함한 100+개 기기와 실험실 검사를 원활하게 연결하여 완전한 건강 데이터 통합을 실현.",
+      "support": "24/7 이용 가능한 장수 전문가, 영양사, 건강 코치에 대한 액세스로 최적화 여정을 안내하고 질문에 답변."
+    },
+    "stats": {
+      "users": "활성 사용자",
+      "satisfaction": "만족도",
+      "rating": "앱 평점",
+      "doctors": "의사"
+    },
+    "statsDescription": "건강수명과 기대수명을 연장하기 위해 LongevAI360을 신뢰하는 수천 명의 건강 최적화 전문가, 의사, 장수 애호가들에게 합류하세요."
+  },
+  "mobile": {
+    "description": "건강을 최적화하는 10,000+명에 합류",
+    "cta": "무료로 시작 →"
+  },
+  "scroll": {
+    "text": "더 보려면 스크롤"
+  },
+  "floatingCards": {
+    "healthScore": {
+      "title": "실시간 건강 점수",
+      "content": "94",
+      "subContent": "↗ 이번 주 +2.3"
+    },
+    "aiInsights": {
+      "title": "AI 통찰력",
+      "content": "3개의 새로운 권장사항",
+      "subContent": "세부사항 보기 →"
+    },
+    "geneticReport": {
+      "title": "유전자 보고서",
+      "content": "다운로드 준비 완료"
+    },
+    "longevityScore": {
+      "title": "장수 점수",
+      "content": "8.7/10",
+      "subContent": "우수한 궤적"
+    }
+  },
+  "language": {
+    "select": "언어 선택",
+    "more": "더 많은 언어 곧 출시"
+  },
+  "footer": {
+    "description": "세계에서 가장 진보된 장수 최적화 플랫폼. AI 기반 통찰력으로 건강수명과 기대수명을 연장하세요.",
+    "security": "HIPAA 준수 및 보안",
+    "certified": "FDA 등록 시설",
+    "global": "전 세계 이용 가능",
+    "product": {
+      "title": "제품",
+      "features": "기능",
+      "pricing": "가격",
+      "aiCoach": "AI 코치",
+      "genetics": "유전자 분석",
+      "biomarkers": "바이오마커",
+      "integrations": "통합"
+    },
+    "resources": {
+      "title": "리소스",
+      "documentation": "문서",
+      "apiReference": "API 참조",
+      "blog": "블로그",
+      "research": "연구",
+      "webinars": "웨비나",
+      "community": "커뮤니티"
+    },
+    "support": {
+      "title": "지원",
+      "helpCenter": "도움말 센터",
+      "contact": "문의하기",
+      "status": "시스템 상태"
+    },
+    "newsletter": {
+      "title": "최신 정보 받기",
+      "description": "최신 장수 연구, 제품 업데이트, 건강 최적화 팁을 받은편지함에서 받아보세요.",
+      "placeholder": "이메일 주소 입력",
+      "subscribe": "구독",
+      "privacy": "개인정보를 존중합니다. 언제든지 구독 취소할 수 있습니다."
+    },
+    "legal": {
+      "privacy": "개인정보 처리방침",
+      "terms": "서비스 약관",
+      "cookies": "쿠키 정책",
+      "gdpr": "GDPR"
+    },
+    "copyright": "모든 권리 보유."
+  }
+}

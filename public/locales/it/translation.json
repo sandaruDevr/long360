@@ -1,0 +1,241 @@
+{
+  "header": {
+    "logo": "LongevAI360",
+    "features": "Caratteristiche",
+    "pricing": "Prezzi",
+    "trustBadge": "Unisciti a 10.000+ che ottimizzano la loro salute",
+    "getStarted": "Inizia Gratis →",
+    "login": "Accedi"
+  },
+  "hero": {
+    "headline": "Vivi <1>Più Intelligentemente</1>. Vivi <3>Più a Lungo</3>.",
+    "subheading": "La piattaforma di ottimizzazione della longevità più avanzata al mondo. Analizza 700.000+ varianti genetiche, traccia 50+ biomarcatori e ottieni insights alimentati dall'IA per estendere la tua durata di vita sana e aspettativa di vita.",
+    "cta": "Inizia Gratis",
+    "ctaSubtext": "Inizia la tua prova gratuita oggi 👇",
+    "features": {
+      "genetic": "Analisi Genetica + Biomarcatori",
+      "insights": "Insights di Longevità in Tempo Reale",
+      "reports": "Report Pronti per Medici"
+    }
+  },
+  "features": {
+    "badge": "Caratteristiche Avanzate",
+    "title": "Tutto ciò di cui Hai Bisogno per <1>Ottimizzare la Vita</1>",
+    "subtitle": "La nostra piattaforma completa combina IA all'avanguardia, analisi genetica e tracciamento dei biomarcatori in tempo reale per offrire ottimizzazione della longevità personalizzata come mai prima d'ora.",
+    "cta": "Inizia il Tuo Viaggio di Longevità",
+    "ctaSubtext": "<1>Prova gratuita di 14 giorni</1> • Nessuna carta di credito richiesta",
+    "learnMore": "Scopri di più",
+    "items": {
+      "aiCoach": {
+        "title": "Coach IA",
+        "description": "Coaching personalizzato alimentato dall'IA che si adatta alla tua biologia unica e ai modelli di stile di vita per risultati ottimali."
+      },
+      "workouts": {
+        "title": "Allenamenti",
+        "description": "Protocolli di esercizio supportati dalla scienza adattati al tuo profilo genetico e obiettivi di fitness per il massimo impatto sulla longevità."
+      },
+      "nutrition": {
+        "title": "Nutrizione",
+        "description": "Piani nutrizionali di precisione basati sul tuo tipo metabolico, varianti genetiche e dati dei biomarcatori in tempo reale."
+      },
+      "calculator": {
+        "title": "Calcolatore Salute",
+        "description": "Algoritmi avanzati calcolano la tua età biologica, potenziale di durata di vita sana e traiettoria di longevità."
+      },
+      "diseaseRisk": {
+        "title": "Rischio Malattie",
+        "description": "Valutazione completa del rischio per 150+ condizioni con strategie di prevenzione attuabili."
+      },
+      "sleep": {
+        "title": "Sonno",
+        "description": "Ottimizza la tua architettura del sonno con protocolli personalizzati per recupero migliorato e longevità."
+      },
+      "supplements": {
+        "title": "Integratori",
+        "description": "Raccomandazioni di integrazione di precisione basate sul tuo profilo genetico e carenze nutrizionali."
+      },
+      "dataUpload": {
+        "title": "Caricamento Dati",
+        "description": "Integra senza problemi dati da 100+ dispositivi e test di laboratorio per tracciamento completo della salute."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Processo Semplice",
+    "title": "Come Funziona <1>LongevAI360</1>",
+    "subtitle": "Trasforma la tua salute in tre semplici passaggi. La nostra piattaforma alimentata dall'IA rende l'ottimizzazione della longevità accessibile, personalizzata e scientificamente supportata.",
+    "cta": "Inizia Gratis",
+    "ctaTitle": "Pronto a Iniziare il Tuo Viaggio di Longevità?",
+    "ctaSubtitle": "Unisciti a migliaia di utenti che stanno già ottimizzando la loro salute ed estendendo la loro aspettativa di vita con la nostra piattaforma alimentata dall'IA.",
+    "ctaSubtext": "<1>Prova gratuita di 14 giorni</1> • La configurazione richiede 5 minuti",
+    "learnMore": "Scopri di più",
+    "steps": {
+      "upload": {
+        "title": "Carica i Tuoi Dati",
+        "description": "Carica dati genetici da 23andMe, connetti wearable come Apple Watch o Oura Ring e inserisci metriche di salute per analisi completa.",
+        "features": {
+          "integration": "Integrazione 23andMe",
+          "wearables": "Sincronizzazione Wearable",
+          "metrics": "Inserimento Metriche Salute"
+        }
+      },
+      "analysis": {
+        "title": "Analisi IA",
+        "description": "La nostra IA avanzata analizza 700.000+ varianti genetiche, traccia 50+ biomarcatori e processa i tuoi dati di stile di vita per creare il tuo profilo unico di longevità.",
+        "features": {
+          "variants": "700K+ Varianti Genetiche",
+          "biomarkers": "50+ Biomarcatori",
+          "processing": "Elaborazione Stile di Vita"
+        }
+      },
+      "optimization": {
+        "title": "Ottimizzazione Personalizzata",
+        "description": "Ricevi raccomandazioni personalizzate per nutrizione, esercizio, integratori e protocolli di biohacking adattati alla tua composizione genetica e obiettivi di salute.",
+        "features": {
+          "nutrition": "Nutrizione Personalizzata",
+          "exercise": "Piani di Esercizio",
+          "supplements": "Protocolli Integratori"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Fidato dagli Esperti",
+    "title": "Cosa Dicono i <1>Leader della Salute</1>",
+    "subtitle": "Unisciti a migliaia di medici, ricercatori ed esperti di ottimizzazione della salute che si fidano di LongevAI360 per fornire risultati rivoluzionari ai loro pazienti e a se stessi.",
+    "cta": "Inizia la Tua Prova Gratuita",
+    "ctaTitle": "Unisciti alla Rivoluzione della Salute",
+    "ctaSubtitle": "Sperimenta gli stessi risultati rivoluzionari che migliaia di professionisti della salute ed esperti di ottimizzazione stanno ottenendo con LongevAI360.",
+    "ctaSubtext": "<1>Unisciti a 10.000+ utenti</1> • Nessuna carta di credito richiesta",
+    "stats": {
+      "users": "Utenti Attivi",
+      "satisfaction": "Tasso di Soddisfazione",
+      "partners": "Partner Medici",
+      "rating": "Valutazione Media"
+    }
+  },
+  "pricing": {
+    "badge": "Prezzi Semplici",
+    "title": "Un Piano. <1>Tutto Incluso</1>",
+    "subtitle": "Nessuna tariffa nascosta, nessuna limitazione di funzionalità, nessun livello complicato. Ottieni accesso alla nostra piattaforma completa di ottimizzazione della longevità per un prezzo semplice.",
+    "cardTitle": "La Piattaforma di Longevità Definitiva",
+    "cardSubtitle": "La tua soluzione tutto-in-uno per una vita più lunga e sana.",
+    "badgeMonthlyPayment": "Pagamento mensile unico",
+    "billingDetails": "Fatturazione mensile semplice. Cancella in qualsiasi momento.",
+    "valuePropositionText": "Il tuo toolkit completo per estendere la durata di vita sana e la longevità",
+    "price": "$19",
+    "cents": ".99",
+    "period": "/mese",
+    "cta": "Inizia il Tuo Viaggio di Longevità",
+    "trial": "Prova gratuita di 14 giorni",
+    "cancel": "Cancella in qualsiasi momento",
+    "setup": "Nessuna carta di credito richiesta • La configurazione richiede 5 minuti",
+    "features": {
+      "aiCoach": "Coach di Longevità IA e Insights",
+      "genetic": "Analisi Genetica Completa (700K+ varianti)",
+      "biomarker": "Tracciamento Biomarcatori e Valutazione Rischio Malattie",
+      "diseaseRisk": "Valutazione Rischio Malattie",
+      "workouts": "Piani di Allenamento Personalizzati",
+      "nutrition": "Ottimizzazione della Nutrizione",
+      "biohacking": "Protocolli di Biohacking",
+      "tracking": "Tracciamento dei Progressi",
+      "integration": "Integrazione e Tracciamento Dati Senza Problemi",
+      "support": "Supporto Esperto 24/7 e Orientamento"
+    },
+    "descriptions": {
+      "aiCoach": "Ottieni raccomandazioni personalizzate alimentate da IA avanzata che impara dalla tua biologia unica, modelli di stile di vita e obiettivi di salute per ottimizzare il tuo viaggio di longevità.",
+      "genetic": "Analisi completa di 700.000+ varianti genetiche per comprendere le tue predisposizioni, ottimizzare gli interventi e creare strategie di salute veramente personalizzate.",
+      "biomarker": "Traccia 50+ biomarcatori critici in tempo reale per monitorare il tuo stato di salute, identificare tendenze e prendere decisioni basate sui dati per il benessere ottimale.",
+      "diseaseRisk": "Valutazione avanzata del rischio per 150+ condizioni utilizzando dati genetici e fattori di stile di vita, con strategie di prevenzione attuabili adattate al tuo profilo.",
+      "workouts": "Protocolli di esercizio supportati dalla scienza personalizzati al tuo profilo genetico, livello di fitness e obiettivi di longevità per massimo impatto sulla salute e risultati sostenibili.",
+      "nutrition": "Piani nutrizionali di precisione basati sul tuo tipo metabolico, varianti genetiche, sensibilità alimentari e dati dei biomarcatori in tempo reale per risultati di salute ottimali.",
+      "biohacking": "Protocolli di biohacking basati su evidenze inclusa l'ottimizzazione del sonno, gestione dello stress e tecniche di recupero adattate alla tua biologia unica.",
+      "tracking": "Monitoraggio completo dei progressi con analisi dettagliate, analisi delle tendenze e insights per mantenerti sulla strada verso i tuoi obiettivi di longevità.",
+      "integration": "Connetti senza problemi 100+ dispositivi e test di laboratorio inclusi wearable, test genetici e monitor della salute per integrazione completa dei dati sanitari.",
+      "support": "Accesso a esperti di longevità, nutrizionisti e coach della salute disponibili 24/7 per guidarti attraverso il tuo viaggio di ottimizzazione e rispondere alle domande."
+    },
+    "stats": {
+      "users": "Utenti Attivi",
+      "satisfaction": "Soddisfazione",
+      "rating": "Valutazione App",
+      "doctors": "Medici"
+    },
+    "statsDescription": "Unisciti a migliaia di esperti di ottimizzazione della salute, medici ed entusiasti della longevità che si fidano di LongevAI360 per estendere la loro durata di vita sana e aspettativa di vita."
+  },
+  "mobile": {
+    "description": "Unisciti a 10.000+ che ottimizzano la loro salute",
+    "cta": "Inizia Gratis →"
+  },
+  "scroll": {
+    "text": "Scorri per altro"
+  },
+  "floatingCards": {
+    "healthScore": {
+      "title": "Punteggio Salute Live",
+      "content": "94",
+      "subContent": "↗ +2.3 questa settimana"
+    },
+    "aiInsights": {
+      "title": "Insights IA",
+      "content": "3 nuove raccomandazioni",
+      "subContent": "Vedi dettagli →"
+    },
+    "geneticReport": {
+      "title": "Report Genetico",
+      "content": "Pronto per il download"
+    },
+    "longevityScore": {
+      "title": "Punteggio Longevità",
+      "content": "8.7/10",
+      "subContent": "Traiettoria eccellente"
+    }
+  },
+  "language": {
+    "select": "Seleziona Lingua",
+    "more": "Altre lingue in arrivo"
+  },
+  "footer": {
+    "description": "La piattaforma di ottimizzazione della longevità più avanzata al mondo. Estendi la tua durata di vita sana e aspettativa di vita con insights alimentati dall'IA.",
+    "security": "Conforme HIPAA e Sicuro",
+    "certified": "Struttura Registrata FDA",
+    "global": "Disponibile Globalmente",
+    "product": {
+      "title": "Prodotto",
+      "features": "Caratteristiche",
+      "pricing": "Prezzi",
+      "aiCoach": "Coach IA",
+      "genetics": "Analisi Genetica",
+      "biomarkers": "Biomarcatori",
+      "integrations": "Integrazioni"
+    },
+    "resources": {
+      "title": "Risorse",
+      "documentation": "Documentazione",
+      "apiReference": "Riferimento API",
+      "blog": "Blog",
+      "research": "Ricerca",
+      "webinars": "Webinar",
+      "community": "Comunità"
+    },
+    "support": {
+      "title": "Supporto",
+      "helpCenter": "Centro Assistenza",
+      "contact": "Contattaci",
+      "status": "Stato del Sistema"
+    },
+    "newsletter": {
+      "title": "Rimani Aggiornato",
+      "description": "Ricevi le ultime ricerche sulla longevità, aggiornamenti sui prodotti e consigli di ottimizzazione della salute nella tua casella di posta.",
+      "placeholder": "Inserisci il tuo indirizzo email",
+      "subscribe": "Iscriviti",
+      "privacy": "Rispettiamo la tua privacy. Annulla l'iscrizione in qualsiasi momento."
+    },
+    "legal": {
+      "privacy": "Informativa sulla Privacy",
+      "terms": "Termini di Servizio",
+      "cookies": "Politica sui Cookie",
+      "gdpr": "GDPR"
+    },
+    "copyright": "Tutti i diritti riservati."
+  }
+}

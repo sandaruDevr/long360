@@ -1,0 +1,253 @@
+{
+  "header": {
+    "logo": "LongevAI360",
+    "features": "Features",
+    "pricing": "Pricing",
+    "trustBadge": "Join 10,000+ optimizing their health",
+    "getStarted": "Get Started for Free →",
+    "login": "Log in"
+  },
+  "hero": {
+    "headline": "Live <1>Smarter</1>. Live <3>Longer</3>.",
+    "subheading": "The world's most advanced longevity optimization platform. Analyze 700,000+ genetic variants, track 50+ biomarkers, and get AI-powered insights to extend your healthspan and lifespan.",
+    "cta": "Get Started for Free",
+    "ctaSubtext": "Start your free trial today 👇",
+    "features": {
+      "genetic": "Genetic + Biomarker Analysis",
+      "insights": "Real-Time Longevity Insights",
+      "reports": "Doctor-Ready Reports"
+    }
+  },
+  "features": {
+    "badge": "Advanced Features",
+    "title": "Everything You Need to <1>Optimize Life</1>",
+    "subtitle": "Our comprehensive platform combines cutting-edge AI, genetic analysis, and real-time biomarker tracking to deliver personalized longevity optimization like never before.",
+    "cta": "Start Your Longevity Journey",
+    "ctaSubtext": "<1>Free 14-day trial</1> • No credit card required",
+    "learnMore": "Learn more",
+    "items": {
+      "aiCoach": {
+        "title": "AI Coach",
+        "description": "Personalized AI-powered coaching that adapts to your unique biology and lifestyle patterns for optimal results."
+      },
+      "workouts": {
+        "title": "Workouts",
+        "description": "Science-backed exercise protocols tailored to your genetic profile and fitness goals for maximum longevity impact."
+      },
+      "nutrition": {
+        "title": "Nutrition",
+        "description": "Precision nutrition plans based on your metabolic type, genetic variants, and real-time biomarker data."
+      },
+      "calculator": {
+        "title": "Health Calculator",
+        "description": "Advanced algorithms calculate your biological age, healthspan potential, and longevity trajectory."
+      },
+      "diseaseRisk": {
+        "title": "Disease Risk",
+        "description": "Comprehensive risk assessment for 150+ conditions with actionable prevention strategies."
+      },
+      "sleep": {
+        "title": "Sleep",
+        "description": "Optimize your sleep architecture with personalized protocols for enhanced recovery and longevity."
+      },
+      "supplements": {
+        "title": "Supplements",
+        "description": "Precision supplementation recommendations based on your genetic profile and nutrient deficiencies."
+      },
+      "dataUpload": {
+        "title": "Data Upload",
+        "description": "Seamlessly integrate data from 100+ devices and lab tests for comprehensive health tracking."
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "Simple Process",
+    "title": "How <1>LongevAI360</1> Works",
+    "subtitle": "Transform your health in three simple steps. Our AI-powered platform makes longevity optimization accessible, personalized, and scientifically-backed.",
+    "cta": "Get Started for Free",
+    "ctaTitle": "Ready to Start Your Longevity Journey?",
+    "ctaSubtitle": "Join thousands of users who are already optimizing their health and extending their lifespan with our AI-powered platform.",
+    "ctaSubtext": "<1>14-day free trial</1> • Setup takes 5 minutes",
+    "learnMore": "Learn more",
+    "steps": {
+      "upload": {
+        "title": "Upload Your Data",
+        "description": "Upload genetic data from 23andMe, connect wearables like Apple Watch or Oura Ring, and input health metrics for comprehensive analysis.",
+        "features": {
+          "integration": "23andMe Integration",
+          "wearables": "Wearable Sync",
+          "metrics": "Health Metrics Input"
+        }
+      },
+      "analysis": {
+        "title": "AI Analysis",
+        "description": "Our advanced AI analyzes 700,000+ genetic variants, tracks 50+ biomarkers, and processes your lifestyle data to create your unique longevity profile.",
+        "features": {
+          "variants": "700K+ Genetic Variants",
+          "biomarkers": "50+ Biomarkers",
+          "processing": "Lifestyle Processing"
+        }
+      },
+      "optimization": {
+        "title": "Personalized Optimization",
+        "description": "Receive personalized recommendations for nutrition, exercise, supplements, and biohacking protocols tailored to your genetic makeup and health goals.",
+        "features": {
+          "nutrition": "Custom Nutrition",
+          "exercise": "Exercise Plans",
+          "supplements": "Supplement Protocols"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "Trusted by Experts",
+    "title": "What <1>Health Leaders</1> Say",
+    "subtitle": "Join thousands of doctors, researchers, and health optimization experts who trust LongevAI360 to deliver breakthrough results for their patients and themselves.",
+    "cta": "Start Your Free Trial",
+    "ctaTitle": "Join the Health Revolution",
+    "ctaSubtitle": "Experience the same breakthrough results that thousands of health professionals and optimization experts are achieving with LongevAI360.",
+    "ctaSubtext": "<1>Join 10,000+ users</1> • No credit card required",
+    "stats": {
+      "users": "Active Users",
+      "satisfaction": "Satisfaction Rate",
+      "partners": "Medical Partners",
+      "rating": "Average Rating"
+    }
+  },
+  "pricing": {
+    "badge": "Simple Pricing",
+    "title": "One Plan. <1>Everything Included</1>",
+    "subtitle": "No hidden fees, no feature limitations, no complicated tiers. Get access to our complete longevity optimization platform for one simple price.",
+    "cardTitle": "The Ultimate Longevity Platform",
+    "cardSubtitle": "Your all-in-one solution for a longer, healthier life.",
+    "badgeMonthlyPayment": "One-time monthly payment",
+    "billingDetails": "Simple monthly billing. Cancel anytime.",
+    "valuePropositionText": "Your complete toolkit for extending healthspan and lifespan",
+    "price": "$19",
+    "cents": ".99",
+    "period": "/month",
+    "cta": "Start Your Longevity Journey",
+    "trial": "14-day free trial",
+    "cancel": "Cancel anytime",
+    "setup": "No credit card required • Setup takes 5 minutes",
+    "features": {
+      "aiCoach": "AI Longevity Coach & Insights",
+      "genetic": "Complete Genetic Analysis (700K+ variants)",
+      "biomarker": "Biomarker Tracking & Disease Risk Assessment",
+      "diseaseRisk": "Disease Risk Assessment",
+      "workouts": "Personalized Workout Plans", 
+      "nutrition": "Nutrition Optimization",
+      "biohacking": "Biohacking Protocols",
+      "tracking": "Progress Tracking",
+      "integration": "Seamless Data Integration & Tracking",
+      "support": "24/7 Expert Support & Guidance"
+    },
+    "descriptions": {
+      "aiCoach": "Get personalized recommendations powered by advanced AI that learns from your unique biology, lifestyle patterns, and health goals to optimize your longevity journey.",
+      "genetic": "Comprehensive analysis of 700,000+ genetic variants to understand your predispositions, optimize interventions, and create truly personalized health strategies.",
+      "biomarker": "Track 50+ critical biomarkers in real-time to monitor your health status, identify trends, and make data-driven decisions for optimal wellness.",
+      "diseaseRisk": "Advanced risk assessment for 150+ conditions using genetic data and lifestyle factors, with actionable prevention strategies tailored to your profile.",
+      "workouts": "Science-backed exercise protocols customized to your genetic profile, fitness level, and longevity goals for maximum health impact and sustainable results.",
+      "nutrition": "Precision nutrition plans based on your metabolic type, genetic variants, food sensitivities, and real-time biomarker data for optimal health outcomes.",
+      "biohacking": "Evidence-based biohacking protocols including sleep optimization, stress management, and recovery techniques tailored to your unique biology.",
+      "tracking": "Comprehensive progress monitoring with detailed analytics, trend analysis, and insights to keep you on track toward your longevity goals.",
+      "integration": "Seamlessly connect 100+ devices and lab tests including wearables, genetic tests, and health monitors for complete health data integration.",
+      "support": "Access to longevity experts, nutritionists, and health coaches available 24/7 to guide you through your optimization journey and answer questions."
+    },
+    "stats": {
+      "users": "Active Users",
+      "satisfaction": "Satisfaction",
+      "rating": "App Rating",
+      "doctors": "Doctors"
+    },
+    "statsDescription": "Join thousands of health optimization experts, doctors, and longevity enthusiasts who trust LongevAI360 to extend their healthspan and lifespan.",
+    "descriptions": {
+      "aiCoach": "Get personalized recommendations powered by advanced AI that learns from your unique biology, lifestyle patterns, and health goals to optimize your longevity journey.",
+      "genetic": "Comprehensive analysis of 700,000+ genetic variants to understand your predispositions, optimize interventions, and create truly personalized health strategies.",
+      "biomarker": "Track 50+ critical biomarkers in real-time to monitor your health status, identify trends, and make data-driven decisions for optimal wellness.",
+      "diseaseRisk": "Advanced risk assessment for 150+ conditions using genetic data and lifestyle factors, with actionable prevention strategies tailored to your profile.",
+      "workouts": "Science-backed exercise protocols customized to your genetic profile, fitness level, and longevity goals for maximum health impact and sustainable results.",
+      "nutrition": "Precision nutrition plans based on your metabolic type, genetic variants, food sensitivities, and real-time biomarker data for optimal health outcomes.",
+      "biohacking": "Evidence-based biohacking protocols including sleep optimization, stress management, and recovery techniques tailored to your unique biology.",
+      "tracking": "Comprehensive progress monitoring with detailed analytics, trend analysis, and insights to keep you on track toward your longevity goals.",
+      "integration": "Seamlessly connect 100+ devices and lab tests including wearables, genetic tests, and health monitors for complete health data integration.",
+      "support": "Access to longevity experts, nutritionists, and health coaches available 24/7 to guide you through your optimization journey and answer questions."
+    }
+  },
+  "mobile": {
+    "description": "Join 10,000+ optimizing their health",
+    "cta": "Get Started for Free →"
+  },
+  "scroll": {
+    "text": "Scroll for more"
+  },
+  "floatingCards": {
+    "healthScore": {
+      "title": "Live Health Score",
+      "content": "94",
+      "subContent": "↗ +2.3 this week"
+    },
+    "aiInsights": {
+      "title": "AI Insights",
+      "content": "3 new recommendations",
+      "subContent": "View details →"
+    },
+    "geneticReport": {
+      "title": "Genetic Report",
+      "content": "Ready for download"
+    },
+    "longevityScore": {
+      "title": "Longevity Score",
+      "content": "8.7/10",
+      "subContent": "Excellent trajectory"
+    }
+  },
+  "language": {
+    "select": "Select Language",
+    "more": "More languages coming soon"
+  },
+  "footer": {
+    "description": "The world's most advanced longevity optimization platform. Extend your healthspan and lifespan with AI-powered insights.",
+    "security": "HIPAA Compliant & Secure",
+    "certified": "FDA Registered Facility",
+    "global": "Available Worldwide",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "pricing": "Pricing",
+      "aiCoach": "AI Coach",
+      "genetics": "Genetic Analysis",
+      "biomarkers": "Biomarkers",
+      "integrations": "Integrations"
+    },
+    "resources": {
+      "title": "Resources",
+      "documentation": "Documentation",
+      "apiReference": "API Reference",
+      "blog": "Blog",
+      "research": "Research",
+      "webinars": "Webinars",
+      "community": "Community"
+    },
+    "support": {
+      "title": "Support",
+      "helpCenter": "Help Center",
+      "contact": "Contact Us",
+      "status": "System Status"
+    },
+    "newsletter": {
+      "title": "Stay Updated",
+      "description": "Get the latest longevity research, product updates, and health optimization tips delivered to your inbox.",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    },
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "cookies": "Cookie Policy",
+      "gdpr": "GDPR"
+    },
+    "copyright": "All rights reserved."
+  }
+}

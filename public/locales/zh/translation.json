@@ -1,0 +1,241 @@
+{
+  "header": {
+    "logo": "LongevAI360",
+    "features": "功能",
+    "pricing": "价格",
+    "trustBadge": "加入10,000+优化健康的用户",
+    "getStarted": "免费开始 →",
+    "login": "登录"
+  },
+  "hero": {
+    "headline": "生活更<1>智能</1>。生活更<3>长久</3>。",
+    "subheading": "世界上最先进的长寿优化平台。分析700,000+基因变异，追踪50+生物标志物，获得AI驱动的洞察来延长您的健康寿命和预期寿命。",
+    "cta": "免费开始",
+    "ctaSubtext": "今天开始您的免费试用 👇",
+    "features": {
+      "genetic": "基因 + 生物标志物分析",
+      "insights": "实时长寿洞察",
+      "reports": "医生就绪报告"
+    }
+  },
+  "features": {
+    "badge": "高级功能",
+    "title": "您需要的一切来<1>优化生活</1>",
+    "subtitle": "我们的综合平台结合了尖端AI、基因分析和实时生物标志物追踪，提供前所未有的个性化长寿优化。",
+    "cta": "开始您的长寿之旅",
+    "ctaSubtext": "<1>14天免费试用</1> • 无需信用卡",
+    "learnMore": "了解更多",
+    "items": {
+      "aiCoach": {
+        "title": "AI教练",
+        "description": "个性化AI驱动的指导，适应您独特的生物学和生活方式模式，获得最佳结果。"
+      },
+      "workouts": {
+        "title": "锻炼",
+        "description": "基于科学的运动协议，根据您的基因档案和健身目标量身定制，实现最大长寿影响。"
+      },
+      "nutrition": {
+        "title": "营养",
+        "description": "基于您的代谢类型、基因变异和实时生物标志物数据的精准营养计划。"
+      },
+      "calculator": {
+        "title": "健康计算器",
+        "description": "先进算法计算您的生物年龄、健康寿命潜力和长寿轨迹。"
+      },
+      "diseaseRisk": {
+        "title": "疾病风险",
+        "description": "对150+疾病的综合风险评估，提供可行的预防策略。"
+      },
+      "sleep": {
+        "title": "睡眠",
+        "description": "通过个性化协议优化您的睡眠结构，增强恢复和长寿。"
+      },
+      "supplements": {
+        "title": "补充剂",
+        "description": "基于您的基因档案和营养缺乏的精准补充建议。"
+      },
+      "dataUpload": {
+        "title": "数据上传",
+        "description": "无缝整合来自100+设备和实验室测试的数据，进行全面健康追踪。"
+      }
+    }
+  },
+  "howItWorks": {
+    "badge": "简单流程",
+    "title": "<1>LongevAI360</1>如何工作",
+    "subtitle": "通过三个简单步骤改变您的健康。我们的AI驱动平台使长寿优化变得可访问、个性化和科学支持。",
+    "cta": "免费开始",
+    "ctaTitle": "准备开始您的长寿之旅？",
+    "ctaSubtitle": "加入数千名已经在用我们的AI驱动平台优化健康和延长寿命的用户。",
+    "ctaSubtext": "<1>14天免费试用</1> • 设置需要5分钟",
+    "learnMore": "了解更多",
+    "steps": {
+      "upload": {
+        "title": "上传您的数据",
+        "description": "从23andMe上传基因数据，连接Apple Watch或Oura Ring等可穿戴设备，输入健康指标进行综合分析。",
+        "features": {
+          "integration": "23andMe集成",
+          "wearables": "可穿戴设备同步",
+          "metrics": "健康指标输入"
+        }
+      },
+      "analysis": {
+        "title": "AI分析",
+        "description": "我们的先进AI分析700,000+基因变异，追踪50+生物标志物，处理您的生活方式数据以创建您独特的长寿档案。",
+        "features": {
+          "variants": "700K+基因变异",
+          "biomarkers": "50+生物标志物",
+          "processing": "生活方式处理"
+        }
+      },
+      "optimization": {
+        "title": "个性化优化",
+        "description": "接收针对您的基因构成和健康目标量身定制的营养、运动、补充剂和生物黑客协议的个性化建议。",
+        "features": {
+          "nutrition": "定制营养",
+          "exercise": "运动计划",
+          "supplements": "补充剂协议"
+        }
+      }
+    }
+  },
+  "testimonials": {
+    "badge": "专家信赖",
+    "title": "<1>健康领导者</1>怎么说",
+    "subtitle": "加入数千名医生、研究人员和健康优化专家，他们信任LongevAI360为患者和自己提供突破性结果。",
+    "cta": "开始免费试用",
+    "ctaTitle": "加入健康革命",
+    "ctaSubtitle": "体验数千名健康专业人士和优化专家通过LongevAI360获得的相同突破性结果。",
+    "ctaSubtext": "<1>加入10,000+用户</1> • 无需信用卡",
+    "stats": {
+      "users": "活跃用户",
+      "satisfaction": "满意度",
+      "partners": "医疗合作伙伴",
+      "rating": "平均评分"
+    }
+  },
+  "pricing": {
+    "badge": "简单定价",
+    "title": "一个计划。<1>包含一切</1>",
+    "subtitle": "无隐藏费用，无功能限制，无复杂层级。以一个简单价格获得我们完整长寿优化平台的访问权限。",
+    "cardTitle": "终极长寿平台",
+    "cardSubtitle": "您的一站式长寿健康生活解决方案。",
+    "badgeMonthlyPayment": "一次性月付",
+    "billingDetails": "简单月度计费。随时取消。",
+    "valuePropositionText": "您延长健康寿命和长寿的完整工具包",
+    "price": "$19",
+    "cents": ".99",
+    "period": "/月",
+    "cta": "开始您的长寿之旅",
+    "trial": "14天免费试用",
+    "cancel": "随时取消",
+    "setup": "无需信用卡 • 设置需要5分钟",
+    "features": {
+      "aiCoach": "AI长寿教练和洞察",
+      "genetic": "完整基因分析（700K+变异）",
+      "biomarker": "生物标志物追踪和疾病风险评估",
+      "diseaseRisk": "疾病风险评估",
+      "workouts": "个性化锻炼计划",
+      "nutrition": "营养优化",
+      "biohacking": "生物黑客协议",
+      "tracking": "进度追踪",
+      "integration": "无缝数据集成和追踪",
+      "support": "24/7专家支持和指导"
+    },
+    "descriptions": {
+      "aiCoach": "获得由先进AI提供的个性化建议，它从您独特的生物学、生活方式模式和健康目标中学习，以优化您的长寿之旅。",
+      "genetic": "对700,000+基因变异进行全面分析，了解您的易感性，优化干预措施，创建真正个性化的健康策略。",
+      "biomarker": "实时追踪50+关键生物标志物，监测您的健康状态，识别趋势，为最佳健康做出数据驱动的决策。",
+      "diseaseRisk": "使用基因数据和生活方式因素对150+疾病进行高级风险评估，提供针对您档案的可行预防策略。",
+      "workouts": "基于科学的运动协议，根据您的基因档案、健身水平和长寿目标定制，实现最大健康影响和可持续结果。",
+      "nutrition": "基于您的代谢类型、基因变异、食物敏感性和实时生物标志物数据的精准营养计划，实现最佳健康结果。",
+      "biohacking": "基于证据的生物黑客协议，包括睡眠优化、压力管理和恢复技术，针对您独特的生物学定制。",
+      "tracking": "全面的进度监控，包括详细分析、趋势分析和洞察，让您朝着长寿目标前进。",
+      "integration": "无缝连接100+设备和实验室测试，包括可穿戴设备、基因测试和健康监测器，实现完整的健康数据集成。",
+      "support": "24/7可获得长寿专家、营养师和健康教练的支持，指导您完成优化之旅并回答问题。"
+    },
+    "stats": {
+      "users": "活跃用户",
+      "satisfaction": "满意度",
+      "rating": "应用评分",
+      "doctors": "医生"
+    },
+    "statsDescription": "加入数千名健康优化专家、医生和长寿爱好者，他们信任LongevAI360来延长健康寿命和预期寿命。"
+  },
+  "mobile": {
+    "description": "加入10,000+优化健康的用户",
+    "cta": "免费开始 →"
+  },
+  "scroll": {
+    "text": "滚动查看更多"
+  },
+  "floatingCards": {
+    "healthScore": {
+      "title": "实时健康评分",
+      "content": "94",
+      "subContent": "↗ 本周+2.3"
+    },
+    "aiInsights": {
+      "title": "AI洞察",
+      "content": "3个新建议",
+      "subContent": "查看详情 →"
+    },
+    "geneticReport": {
+      "title": "基因报告",
+      "content": "准备下载"
+    },
+    "longevityScore": {
+      "title": "长寿评分",
+      "content": "8.7/10",
+      "subContent": "优秀轨迹"
+    }
+  },
+  "language": {
+    "select": "选择语言",
+    "more": "更多语言即将推出"
+  },
+  "footer": {
+    "description": "世界上最先进的长寿优化平台。通过AI驱动的洞察延长您的健康寿命和预期寿命。",
+    "security": "符合HIPAA标准且安全",
+    "certified": "FDA注册机构",
+    "global": "全球可用",
+    "product": {
+      "title": "产品",
+      "features": "功能",
+      "pricing": "价格",
+      "aiCoach": "AI教练",
+      "genetics": "基因分析",
+      "biomarkers": "生物标志物",
+      "integrations": "集成"
+    },
+    "resources": {
+      "title": "资源",
+      "documentation": "文档",
+      "apiReference": "API参考",
+      "blog": "博客",
+      "research": "研究",
+      "webinars": "网络研讨会",
+      "community": "社区"
+    },
+    "support": {
+      "title": "支持",
+      "helpCenter": "帮助中心",
+      "contact": "联系我们",
+      "status": "系统状态"
+    },
+    "newsletter": {
+      "title": "保持更新",
+      "description": "在您的收件箱中获取最新的长寿研究、产品更新和健康优化技巧。",
+      "placeholder": "输入您的邮箱地址",
+      "subscribe": "订阅",
+      "privacy": "我们尊重您的隐私。随时可以取消订阅。"
+    },
+    "legal": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "cookies": "Cookie政策",
+      "gdpr": "GDPR"
+    },
+    "copyright": "版权所有。"
+  }
+}
