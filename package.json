@@ -1,3 +1,4 @@
+
 {
   "name": "vite-react-typescript-starter",
   "private": true,
@@ -5,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "node_modules/.bin/vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
